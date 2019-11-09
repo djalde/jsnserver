@@ -1,4 +1,5 @@
-[
+{
+    "servicos": [
     {
         "name": "dns",
         "status": "on"
@@ -22,5 +23,5 @@
     {
         "name": "networking",
         "status": "on"
-    }
-]
+    }]
+}
